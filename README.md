@@ -1,0 +1,2 @@
+# Strat
+Strategy game
